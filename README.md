@@ -1,4 +1,4 @@
-# automacao-advocacia-jovem
+# automacao-advogado-hacker
 Lista de ferramentas open source para advocacia, consulta de processos, automação e IA. Apresentada no evento da Jovem Advocacia de Juazeiro/BA.
 
 # 🛠️ Ferramentas Open Source para Advogados
