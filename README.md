@@ -15,4 +15,5 @@ Biblioteca em Python para consultar processos e jurisprudência em 18 tribunais 
 
 ```bash
 pip install juscraper
+```bash
 ⭐ 38 estrelas · Atualizado em 2026
