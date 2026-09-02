@@ -1,4 +1,5 @@
 # automacao-advogado-hacker
+
 Lista de ferramentas open source para advocacia, consulta de processos, automação e IA. Apresentada no evento da Jovem Advocacia de Juazeiro/BA.
 
 # 🛠️ Ferramentas Open Source para Advogados
@@ -6,6 +7,24 @@ Lista de ferramentas open source para advocacia, consulta de processos, automaç
 Lista de ferramentas gratuitas e de código aberto, separadas para quem assistiu à palestra **"Automação para quem quer prospectar e faturar"** no evento da Jovem Advocacia — Juazeiro/BA.
 
 Nenhuma delas é produto comercial — são projetos de código aberto mantidos pela comunidade. Teste, adapte e, se fizer sentido, contribua com quem construiu.
+
+---
+
+## 🔰 Como Usar Este Guia (Para Não Programadores)
+
+Se você não é da área de tecnologia, não se assuste com os comandos de terminal. A maioria dessas ferramentas segue um destes 3 caminhos simples:
+
+1. **Ferramentas em Python (ex: `pip install ...`):**
+   * Baixe e instale o [Python](https://www.python.org/).
+   * Abra o **Prompt de Comando** (Windows) ou **Terminal** (Mac).
+   * Copie o comando indicado abaixo de cada ferramenta, cole no terminal e aperte **Enter**.
+
+2. **Ferramentas com Docker (ex: `docker-compose up`):**
+   * Baixe e abra o [Docker Desktop](https://www.docker.com/).
+   * Ele cria um "servidor local" no seu computador para rodar sistemas complexos com um único clique.
+
+3. **Prompts e Scripts em Texto:**
+   * Não exigem instalação nenhuma! Basta copiar o texto e colar direto no ChatGPT, Claude ou Gemini.
 
 ---
 
