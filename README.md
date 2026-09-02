@@ -92,9 +92,6 @@ Skill para Claude Code que audita contas de anúncios pagos (Google, Meta, TikTo
 Cliente de e-mail self-hosted (roda em Cloudflare Workers) com um agente de IA que lê, busca e sugere respostas — sempre com confirmação antes de enviar.  
 ⭐ **6,4 mil estrelas**
 
-### Open-LLM-VTuber
-Assistente de IA com avatar animado (Live2D), 100% offline, com conversa por voz e percepção visual — dá pra usar como personagem para conteúdo em vídeo.  
-⭐ **13,5 mil estrelas**
 
 ### Open Higgsfield AI
 Alternativa open source e gratuita ao Higgsfield AI: mais de 200 modelos de geração de imagem e vídeo (Image Studio, Video Studio, Lip Sync, Cinema Studio), sem assinatura.  
