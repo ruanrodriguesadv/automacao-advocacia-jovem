@@ -4,7 +4,7 @@ Lista de ferramentas open source para advocacia, consulta de processos, automaç
 
 # 🛠️ Ferramentas Open Source para Advogados
 
-Lista de ferramentas gratuitas e de código aberto, separadas para quem assistiu à palestra **"Automação para quem quer prospectar e faturar"** no evento da Jovem Advocacia — Juazeiro/BA.
+Lista de ferramentas gratuitas e de código aberto, separadas para quem assistiu à palestra **"Automação Jurídica"** no evento da Jovem Advocacia — Juazeiro/BA.
 
 Nenhuma delas é produto comercial — são projetos de código aberto mantidos pela comunidade. Teste, adapte e, se fizer sentido, contribua com quem construiu.
 
