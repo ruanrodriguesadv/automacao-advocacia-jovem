@@ -17,6 +17,7 @@ Se você não é da área de tecnologia, não se assuste com os comandos de term
 1. **Ferramentas em Python (ex: `pip install ...`):**
    * Baixe e instale o [Python](https://www.python.org/).
    * Abra o **Prompt de Comando** (Windows) ou **Terminal** (Mac).
+   * <img width="605" height="270" alt="image" src="https://github.com/user-attachments/assets/d2251efb-538a-4b7b-ac3b-d2ab6a6f0a51" />
    * Copie o comando indicado abaixo de cada ferramenta, cole no terminal e aperte **Enter**.
 
 2. **Ferramentas com Docker (ex: `docker-compose up`):**
